@@ -6,7 +6,7 @@
 
 Using the two in conjunction is one of the fastest ways to build a web app.
 
---visit site url: https://tenzies-game-jet-six.vercel.app/
+[visit site](https://tenzies-game-jet-six.vercel.app/)
 
 ### Getting Started
 
